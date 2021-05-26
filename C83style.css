@@ -1,0 +1,16 @@
+
+h1
+{
+	color: aquamarine; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url("bg1.jpg");
+	background-size: cover;
+}
+
+#mycanvas{
+background-color: white;
+border: 5px ridge aqua;
+}
+
